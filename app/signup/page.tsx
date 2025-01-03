@@ -56,6 +56,7 @@ export default function signup() {
                 className="w-full bg-primary text-white py-2 rounded-md hover:bg-primary-dark transition"
               >
                 Signup
+                Only smaple
               </button>
             </form>
           </div>
